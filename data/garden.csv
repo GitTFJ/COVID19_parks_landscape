@@ -1,0 +1,375 @@
+Country code,Country name,Region code,Region name,LAD code,LAD name,Address count,Adress with private outdoor space count,Private outdoor space total area (m2),Percentage of adresses with private outdoor space,Average size of private outdoor space (m2)
+S92000003,Scotland,S15000001,Scotland,S12000033,Aberdeen City," 118,428 "," 97,611 "," 17,547,060 ",82%, 289.20 
+S92000003,Scotland,S15000001,Scotland,S12000034,Aberdeenshire," 119,299 "," 108,432 "," 64,298,658 ",91%, 637.70 
+E92000001,England,E12000008,South East,E07000223,Adur," 28,290 "," 25,323 "," 5,361,392 ",90%, 240.50 
+E92000001,England,E12000002,North West,E07000026,Allerdale," 47,319 "," 43,352 "," 15,374,018 ",92%, 374.10 
+E92000001,England,E12000004,East Midlands,E07000032,Amber Valley," 57,951 "," 54,219 "," 17,203,008 ",94%, 328.20 
+S92000003,Scotland,S15000001,Scotland,S12000041,Angus," 57,288 "," 49,761 "," 20,634,561 ",87%, 476.60 
+S92000003,Scotland,S15000001,Scotland,S12000035,Argyll and Bute," 48,836 "," 39,686 "," 25,131,450 ",81%, 783.10 
+E92000001,England,E12000008,South East,E07000224,Arun," 74,408 "," 68,478 "," 19,730,267 ",92%, 334.10 
+E92000001,England,E12000004,East Midlands,E07000170,Ashfield," 56,193 "," 53,029 "," 12,824,813 ",94%, 252.30 
+E92000001,England,E12000008,South East,E07000105,Ashford," 55,875 "," 49,488 "," 26,587,934 ",89%, 582.20 
+E92000001,England,E12000008,South East,E07000004,Aylesbury Vale," 84,268 "," 74,456 "," 28,619,270 ",88%, 418.70 
+E92000001,England,E12000006,East of England,E07000200,Babergh," 41,121 "," 38,480 "," 22,895,025 ",94%, 629.30 
+E92000001,England,E12000007,London,E09000002,Barking and Dagenham," 75,977 "," 64,211 "," 9,299,448 ",85%, 171.00 
+E92000001,England,E12000007,London,E09000003,Barnet," 153,016 "," 122,373 "," 26,669,927 ",80%, 303.70 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000016,Barnsley," 112,803 "," 106,350 "," 24,077,063 ",94%, 234.90 
+E92000001,England,E12000002,North West,E07000027,Barrow-in-Furness," 33,837 "," 31,756 "," 9,818,599 ",94%, 327.10 
+E92000001,England,E12000006,East of England,E07000066,Basildon," 79,633 "," 72,044 "," 20,219,636 ",91%, 310.90 
+E92000001,England,E12000008,South East,E07000084,Basingstoke and Deane," 77,857 "," 71,969 "," 27,474,095 ",92%, 424.10 
+E92000001,England,E12000004,East Midlands,E07000171,Bassetlaw," 53,152 "," 50,296 "," 19,164,256 ",95%, 397.20 
+E92000001,England,E12000009,South West,E06000022,Bath and North East Somerset," 83,926 "," 75,558 "," 25,003,608 ",90%, 389.80 
+E92000001,England,E12000006,East of England,E06000055,Bedford," 76,724 "," 69,716 "," 20,923,075 ",91%, 344.00 
+E92000001,England,E12000007,London,E09000004,Bexley," 98,670 "," 87,369 "," 18,211,698 ",89%, 240.20 
+E92000001,England,E12000005,West Midlands,E08000025,Birmingham," 447,437 "," 384,453 "," 77,152,450 ",86%, 229.10 
+E92000001,England,E12000004,East Midlands,E07000129,Blaby," 43,157 "," 39,900 "," 11,867,120 ",93%, 306.00 
+E92000001,England,E12000002,North West,E06000008,Blackburn with Darwen," 61,422 "," 58,130 "," 9,414,653 ",95%, 172.60 
+E92000001,England,E12000002,North West,E06000009,Blackpool," 72,477 "," 66,038 "," 8,479,725 ",91%, 150.00 
+W92000004,Wales,W08000001,Wales,W06000019,Blaenau Gwent," 33,178 "," 31,249 "," 5,260,358 ",94%, 179.60 
+E92000001,England,E12000004,East Midlands,E07000033,Bolsover," 36,632 "," 34,512 "," 9,401,526 ",94%, 280.30 
+E92000001,England,E12000002,North West,E08000001,Bolton," 126,221 "," 115,354 "," 19,757,252 ",91%, 185.00 
+E92000001,England,E12000004,East Midlands,E07000136,Boston," 30,854 "," 28,796 "," 11,954,677 ",93%, 444.00 
+E92000001,England,E12000009,South West,E06000058,"Bournemouth, Christchurch and Poole"," 183,570 "," 162,529 "," 38,382,863 ",89%, 315.90 
+E92000001,England,E12000008,South East,E06000036,Bracknell Forest," 50,967 "," 45,613 "," 12,479,177 ",90%, 309.80 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000032,Bradford," 217,076 "," 189,461 "," 37,456,215 ",87%, 212.40 
+E92000001,England,E12000006,East of England,E07000067,Braintree," 65,953 "," 59,407 "," 25,951,174 ",90%, 472.30 
+E92000001,England,E12000006,East of England,E07000143,Breckland," 62,579 "," 57,945 "," 32,098,606 ",93%, 581.10 
+E92000001,England,E12000007,London,E09000005,Brent," 124,473 "," 101,788 "," 15,196,929 ",82%, 235.90 
+E92000001,England,E12000006,East of England,E07000068,Brentwood," 34,170 "," 30,332 "," 12,730,691 ",89%, 484.00 
+W92000004,Wales,W08000001,Wales,W06000013,Bridgend," 63,981 "," 59,953 "," 13,299,821 ",94%, 233.00 
+E92000001,England,E12000008,South East,E06000043,Brighton and Hove," 132,413 "," 115,156 "," 17,781,240 ",87%, 245.00 
+E92000001,England,E12000009,South West,E06000023,"Bristol, City of"," 201,144 "," 168,968 "," 24,347,023 ",84%, 180.80 
+E92000001,England,E12000006,East of England,E07000144,Broadland," 58,867 "," 56,376 "," 26,169,618 ",96%, 488.90 
+E92000001,England,E12000007,London,E09000006,Bromley," 141,466 "," 120,799 "," 33,460,814 ",85%, 331.10 
+E92000001,England,E12000005,West Midlands,E07000234,Bromsgrove," 42,752 "," 39,293 "," 18,247,863 ",92%, 495.00 
+E92000001,England,E12000006,East of England,E07000095,Broxbourne," 40,964 "," 35,852 "," 7,115,492 ",88%, 229.70 
+E92000001,England,E12000004,East Midlands,E07000172,Broxtowe," 50,365 "," 47,105 "," 12,587,914 ",94%, 284.20 
+E92000001,England,E12000002,North West,E07000117,Burnley," 41,702 "," 39,041 "," 5,832,777 ",94%, 156.50 
+E92000001,England,E12000002,North West,E08000002,Bury," 85,065 "," 79,429 "," 13,841,777 ",93%, 190.40 
+W92000004,Wales,W08000001,Wales,W06000018,Caerphilly," 79,756 "," 75,065 "," 15,300,679 ",94%, 212.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000033,Calderdale," 95,295 "," 81,097 "," 18,410,306 ",85%, 246.00 
+E92000001,England,E12000006,East of England,E07000008,Cambridge," 58,199 "," 47,436 "," 8,592,271 ",82%, 230.70 
+E92000001,England,E12000007,London,E09000007,Camden," 120,756 "," 73,657 "," 3,842,357 ",61%, 160.90 
+E92000001,England,E12000005,West Midlands,E07000192,Cannock Chase," 44,061 "," 41,710 "," 9,970,344 ",95%, 253.80 
+E92000001,England,E12000008,South East,E07000106,Canterbury," 65,578 "," 58,574 "," 19,523,955 ",89%, 380.70 
+W92000004,Wales,W08000001,Wales,W06000015,Cardiff," 156,963 "," 133,130 "," 22,586,212 ",85%, 198.10 
+E92000001,England,E12000002,North West,E07000028,Carlisle," 53,118 "," 49,612 "," 15,110,146 ",93%, 329.20 
+W92000004,Wales,W08000001,Wales,W06000010,Carmarthenshire," 88,212 "," 80,898 "," 39,371,736 ",92%, 504.00 
+E92000001,England,E12000006,East of England,E07000069,Castle Point," 38,486 "," 36,045 "," 47,065,842 ",94%," 1,388.80 "
+E92000001,England,E12000006,East of England,E06000056,Central Bedfordshire," 122,013 "," 109,884 "," 32,991,958 ",90%, 322.20 
+W92000004,Wales,W08000001,Wales,W06000008,Ceredigion," 35,690 "," 31,531 "," 19,566,689 ",88%, 676.50 
+E92000001,England,E12000004,East Midlands,E07000130,Charnwood," 74,524 "," 69,224 "," 20,557,096 ",93%, 317.40 
+E92000001,England,E12000006,East of England,E07000070,Chelmsford," 76,671 "," 67,619 "," 25,638,461 ",88%, 419.50 
+E92000001,England,E12000009,South West,E07000078,Cheltenham," 57,191 "," 51,741 "," 11,082,393 ",91%, 267.30 
+E92000001,England,E12000008,South East,E07000177,Cherwell," 68,301 "," 60,741 "," 21,474,424 ",89%, 377.40 
+E92000001,England,E12000002,North West,E06000049,Cheshire East," 183,425 "," 166,283 "," 63,633,848 ",91%, 408.30 
+E92000001,England,E12000002,North West,E06000050,Cheshire West and Chester," 160,694 "," 147,053 "," 53,336,794 ",92%, 388.80 
+E92000001,England,E12000004,East Midlands,E07000034,Chesterfield," 49,897 "," 47,354 "," 10,951,126 ",95%, 250.70 
+E92000001,England,E12000008,South East,E07000225,Chichester," 58,283 "," 52,644 "," 31,316,694 ",90%, 672.50 
+E92000001,England,E12000008,South East,E07000005,Chiltern," 40,329 "," 36,526 "," 21,860,905 ",91%, 653.40 
+E92000001,England,E12000002,North West,E07000118,Chorley," 51,549 "," 48,343 "," 13,580,125 ",94%, 297.20 
+S92000003,Scotland,S15000001,Scotland,S12000036,City of Edinburgh," 255,562 "," 216,894 "," 29,573,471 ",85%, 286.80 
+E92000001,England,E12000007,London,E09000001,City of London," 7,707 ", 554 ," 3,675 ",7%, 96.70 
+S92000003,Scotland,S15000001,Scotland,S12000005,Clackmannanshire," 25,065 "," 23,479 "," 5,905,143 ",94%, 298.50 
+E92000001,England,E12000006,East of England,E07000071,Colchester," 83,201 "," 73,772 "," 25,189,648 ",89%, 388.40 
+W92000004,Wales,W08000001,Wales,W06000003,Conwy," 57,109 "," 52,457 "," 17,536,171 ",92%, 378.20 
+E92000001,England,E12000002,North West,E07000029,Copeland," 34,020 "," 31,504 "," 14,802,226 ",93%, 493.10 
+E92000001,England,E12000004,East Midlands,E07000150,Corby," 30,490 "," 28,667 "," 5,874,093 ",94%, 217.10 
+E92000001,England,E12000009,South West,E06000052,Cornwall," 277,146 "," 247,294 "," 112,298,124 ",89%, 500.10 
+E92000001,England,E12000009,South West,E07000079,Cotswold," 44,759 "," 39,821 "," 24,616,076 ",89%, 671.90 
+E92000001,England,E12000001,North East,E06000047,County Durham," 248,196 "," 233,648 "," 48,847,379 ",94%, 215.70 
+E92000001,England,E12000005,West Midlands,E08000026,Coventry," 150,559 "," 128,206 "," 21,675,563 ",85%, 186.40 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000163,Craven," 28,519 "," 25,201 "," 8,390,570 ",88%, 359.40 
+E92000001,England,E12000008,South East,E07000226,Crawley," 45,853 "," 41,508 "," 7,392,234 ",91%, 208.30 
+E92000001,England,E12000007,London,E09000008,Croydon," 159,416 "," 132,836 "," 26,700,469 ",83%, 257.90 
+E92000001,England,E12000006,East of England,E07000096,Dacorum," 65,213 "," 55,272 "," 17,927,314 ",85%, 363.90 
+E92000001,England,E12000001,North East,E06000005,Darlington," 51,202 "," 48,521 "," 9,740,279 ",95%, 219.20 
+E92000001,England,E12000008,South East,E07000107,Dartford," 47,159 "," 42,266 "," 9,263,684 ",90%, 255.20 
+E92000001,England,E12000004,East Midlands,E07000151,Daventry," 37,220 "," 32,834 "," 13,936,286 ",88%, 440.10 
+W92000004,Wales,W08000001,Wales,W06000004,Denbighshire," 44,451 "," 41,038 "," 16,023,035 ",92%, 414.20 
+E92000001,England,E12000004,East Midlands,E06000015,Derby," 111,404 "," 100,622 "," 20,144,024 ",90%, 216.30 
+E92000001,England,E12000004,East Midlands,E07000035,Derbyshire Dales," 34,539 "," 30,972 "," 16,248,069 ",90%, 553.60 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000017,Doncaster," 137,550 "," 129,492 "," 33,344,666 ",94%, 267.20 
+E92000001,England,E12000009,South West,E06000059,Dorset," 179,743 "," 164,287 "," 80,642,160 ",91%, 547.30 
+E92000001,England,E12000008,South East,E07000108,Dover," 53,728 "," 49,225 "," 16,101,807 ",92%, 365.90 
+E92000001,England,E12000005,West Midlands,E08000027,Dudley," 138,839 "," 129,026 "," 28,726,395 ",93%, 238.20 
+S92000003,Scotland,S15000001,Scotland,S12000006,Dumfries and Galloway," 74,600 "," 67,710 "," 32,601,501 ",91%, 530.80 
+S92000003,Scotland,S15000001,Scotland,S12000042,Dundee City," 75,324 "," 59,518 "," 11,420,042 ",79%, 286.20 
+E92000001,England,E12000007,London,E09000009,Ealing," 138,451 "," 114,620 "," 12,773,356 ",83%, 161.80 
+S92000003,Scotland,S15000001,Scotland,S12000008,East Ayrshire," 58,376 "," 53,476 "," 14,431,366 ",92%, 315.20 
+E92000001,England,E12000006,East of England,E07000009,East Cambridgeshire," 38,021 "," 34,951 "," 16,400,729 ",92%, 491.60 
+E92000001,England,E12000009,South West,E07000040,East Devon," 70,110 "," 63,313 "," 31,718,993 ",90%, 554.50 
+S92000003,Scotland,S15000001,Scotland,S12000045,East Dunbartonshire," 47,422 "," 43,571 "," 13,394,599 ",92%, 347.80 
+E92000001,England,E12000008,South East,E07000085,East Hampshire," 53,967 "," 48,409 "," 27,623,407 ",90%, 635.90 
+E92000001,England,E12000006,East of England,E07000242,East Hertfordshire," 63,818 "," 54,979 "," 23,312,416 ",86%, 472.00 
+E92000001,England,E12000004,East Midlands,E07000137,East Lindsey," 69,207 "," 63,252 "," 37,038,317 ",91%, 622.60 
+S92000003,Scotland,S15000001,Scotland,S12000010,East Lothian," 49,763 "," 45,233 "," 12,944,093 ",91%, 344.20 
+E92000001,England,E12000004,East Midlands,E07000152,East Northamptonshire," 41,079 "," 38,184 "," 13,432,446 ",93%, 370.90 
+S92000003,Scotland,S15000001,Scotland,S12000011,East Renfrewshire," 39,279 "," 35,276 "," 10,782,113 ",90%, 357.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E06000011,East Riding of Yorkshire," 159,182 "," 146,947 "," 55,888,007 ",92%, 400.50 
+E92000001,England,E12000005,West Midlands,E07000193,East Staffordshire," 52,607 "," 48,165 "," 15,575,757 ",92%, 349.00 
+E92000001,England,E12000006,East of England,E07000244,East Suffolk," 118,870 "," 110,669 "," 51,938,727 ",93%, 501.90 
+E92000001,England,E12000008,South East,E07000061,Eastbourne," 49,630 "," 42,447 "," 7,488,004 ",86%, 237.00 
+E92000001,England,E12000008,South East,E07000086,Eastleigh," 56,967 "," 52,021 "," 13,915,818 ",91%, 295.80 
+E92000001,England,E12000002,North West,E07000030,Eden," 27,153 "," 23,867 "," 11,887,970 ",88%, 535.90 
+E92000001,England,E12000008,South East,E07000207,Elmbridge," 58,470 "," 53,129 "," 22,111,731 ",91%, 494.50 
+E92000001,England,E12000007,London,E09000010,Enfield," 127,668 "," 107,377 "," 15,955,139 ",84%, 194.50 
+E92000001,England,E12000006,East of England,E07000072,Epping Forest," 56,482 "," 49,039 "," 19,077,207 ",87%, 441.30 
+E92000001,England,E12000008,South East,E07000208,Epsom and Ewell," 32,431 "," 28,640 "," 8,268,021 ",88%, 333.20 
+E92000001,England,E12000004,East Midlands,E07000036,Erewash," 52,242 "," 49,213 "," 11,748,662 ",94%, 247.90 
+E92000001,England,E12000009,South West,E07000041,Exeter," 57,817 "," 50,593 "," 8,632,359 ",88%, 208.90 
+S92000003,Scotland,S15000001,Scotland,S12000014,Falkirk," 75,949 "," 68,202 "," 16,826,765 ",90%, 296.70 
+E92000001,England,E12000008,South East,E07000087,Fareham," 50,362 "," 47,109 "," 14,369,555 ",94%, 330.20 
+E92000001,England,E12000006,East of England,E07000010,Fenland," 45,024 "," 41,712 "," 16,785,813 ",93%, 419.90 
+S92000003,Scotland,S15000001,Scotland,S12000047,Fife," 179,285 "," 162,313 "," 44,422,631 ",91%, 318.90 
+W92000004,Wales,W08000001,Wales,W06000005,Flintshire," 69,900 "," 65,015 "," 22,273,188 ",93%, 355.10 
+E92000001,England,E12000008,South East,E07000112,Folkestone and Hythe," 51,751 "," 47,492 "," 15,566,799 ",92%, 394.60 
+E92000001,England,E12000009,South West,E07000080,Forest of Dean," 39,321 "," 34,815 "," 20,389,816 ",89%, 618.00 
+E92000001,England,E12000002,North West,E07000119,Fylde," 40,742 "," 36,851 "," 9,686,558 ",90%, 322.70 
+E92000001,England,E12000001,North East,E08000037,Gateshead," 93,959 "," 85,873 "," 14,185,020 ",91%, 184.80 
+E92000001,England,E12000004,East Midlands,E07000173,Gedling," 52,831 "," 49,085 "," 13,786,036 ",93%, 297.70 
+S92000003,Scotland,S15000001,Scotland,S12000049,Glasgow City," 306,437 "," 247,967 "," 27,485,841 ",81%, 235.60 
+E92000001,England,E12000009,South West,E07000081,Gloucester," 57,441 "," 52,676 "," 10,045,086 ",92%, 213.40 
+E92000001,England,E12000008,South East,E07000088,Gosport," 37,700 "," 34,110 "," 5,078,859 ",91%, 174.90 
+E92000001,England,E12000008,South East,E07000109,Gravesham," 43,429 "," 40,145 "," 10,280,453 ",92%, 290.10 
+E92000001,England,E12000006,East of England,E07000145,Great Yarmouth," 47,645 "," 43,574 "," 10,924,520 ",92%, 277.20 
+E92000001,England,E12000007,London,E09000011,Greenwich," 119,507 "," 95,700 "," 10,371,032 ",80%, 166.70 
+E92000001,England,E12000008,South East,E07000209,Guildford," 61,214 "," 54,441 "," 27,476,254 ",89%, 584.80 
+W92000004,Wales,W08000001,Wales,W06000002,Gwynedd," 63,843 "," 56,312 "," 24,958,086 ",88%, 478.40 
+E92000001,England,E12000007,London,E09000012,Hackney," 115,883 "," 79,445 "," 3,563,197 ",69%, 116.30 
+E92000001,England,E12000002,North West,E06000006,Halton," 57,852 "," 54,582 "," 11,479,928 ",94%, 223.70 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000164,Hambleton," 42,084 "," 37,977 "," 20,552,971 ",90%, 562.50 
+E92000001,England,E12000007,London,E09000013,Hammersmith and Fulham," 93,484 "," 75,694 "," 2,650,087 ",81%, 81.40 
+E92000001,England,E12000004,East Midlands,E07000131,Harborough," 40,710 "," 35,721 "," 14,480,540 ",88%, 426.20 
+E92000001,England,E12000007,London,E09000014,Haringey," 114,296 "," 96,142 "," 6,739,066 ",84%, 132.50 
+E92000001,England,E12000006,East of England,E07000073,Harlow," 38,604 "," 32,522 "," 4,887,318 ",84%, 168.70 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000165,Harrogate," 73,664 "," 67,365 "," 26,349,591 ",91%, 443.60 
+E92000001,England,E12000007,London,E09000015,Harrow," 93,531 "," 79,690 "," 17,325,396 ",85%, 269.20 
+E92000001,England,E12000008,South East,E07000089,Hart," 40,504 "," 37,125 "," 16,807,420 ",92%, 488.70 
+E92000001,England,E12000001,North East,E06000001,Hartlepool," 44,273 "," 41,641 "," 7,053,701 ",94%, 183.00 
+E92000001,England,E12000008,South East,E07000062,Hastings," 44,150 "," 39,263 "," 7,433,997 ",89%, 255.90 
+E92000001,England,E12000008,South East,E07000090,Havant," 55,296 "," 50,501 "," 12,476,987 ",91%, 278.10 
+E92000001,England,E12000007,London,E09000016,Havering," 106,084 "," 95,188 "," 20,630,289 ",90%, 249.10 
+E92000001,England,E12000005,West Midlands,E06000019,"Herefordshire, County of"," 85,966 "," 76,640 "," 49,447,363 ",89%, 692.90 
+E92000001,England,E12000006,East of England,E07000098,Hertsmere," 44,481 "," 36,049 "," 10,697,379 ",81%, 335.70 
+E92000001,England,E12000004,East Midlands,E07000037,High Peak," 42,939 "," 39,465 "," 11,338,228 ",92%, 311.50 
+S92000003,Scotland,S15000001,Scotland,S12000017,Highland," 121,444 "," 106,884 "," 71,738,576 ",88%, 729.20 
+E92000001,England,E12000007,London,E09000017,Hillingdon," 114,148 "," 100,099 "," 19,506,894 ",88%, 236.70 
+E92000001,England,E12000004,East Midlands,E07000132,Hinckley and Bosworth," 50,680 "," 46,686 "," 14,559,455 ",92%, 327.00 
+E92000001,England,E12000008,South East,E07000227,Horsham," 63,656 "," 56,696 "," 32,664,936 ",89%, 647.10 
+E92000001,England,E12000007,London,E09000018,Hounslow," 104,324 "," 84,903 "," 10,414,530 ",81%, 170.00 
+E92000001,England,E12000006,East of England,E07000011,Huntingdonshire," 78,096 "," 72,201 "," 28,011,472 ",93%, 414.40 
+E92000001,England,E12000002,North West,E07000120,Hyndburn," 36,896 "," 34,952 "," 4,871,109 ",95%, 147.20 
+S92000003,Scotland,S15000001,Scotland,S12000018,Inverclyde," 38,949 "," 34,661 "," 7,095,712 ",89%, 310.10 
+E92000001,England,E12000006,East of England,E07000202,Ipswich," 61,000 "," 53,871 "," 10,992,549 ",88%, 233.80 
+W92000004,Wales,W08000001,Wales,W06000001,Isle of Anglesey," 36,285 "," 33,418 "," 17,473,296 ",92%, 554.50 
+E92000001,England,E12000008,South East,E06000046,Isle of Wight," 73,715 "," 66,385 "," 24,713,007 ",90%, 445.00 
+E92000001,England,E12000009,South West,E06000053,Isles of Scilly," 1,229 "," 1,037 "," 513,744 ",84%, 610.10 
+E92000001,England,E12000007,London,E09000019,Islington," 109,370 "," 77,328 "," 2,774,010 ",71%, 100.20 
+E92000001,England,E12000007,London,E09000020,Kensington and Chelsea," 90,472 "," 73,950 "," 1,961,533 ",82%, 96.70 
+E92000001,England,E12000004,East Midlands,E07000153,Kettering," 46,171 "," 41,997 "," 10,563,792 ",91%, 273.20 
+E92000001,England,E12000006,East of England,E07000146,King's Lynn and West Norfolk," 73,940 "," 66,636 "," 35,528,624 ",90%, 565.80 
+E92000001,England,E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of"," 121,955 "," 111,330 "," 14,617,046 ",91%, 140.70 
+E92000001,England,E12000007,London,E09000021,Kingston upon Thames," 67,400 "," 58,304 "," 10,828,164 ",87%, 244.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000034,Kirklees," 187,154 "," 165,075 "," 38,463,647 ",88%, 248.80 
+E92000001,England,E12000002,North West,E08000011,Knowsley," 68,755 "," 63,632 "," 11,670,394 ",93%, 192.40 
+E92000001,England,E12000007,London,E09000022,Lambeth," 144,421 "," 108,524 "," 6,793,029 ",75%, 132.30 
+E92000001,England,E12000002,North West,E07000121,Lancaster," 66,607 "," 58,070 "," 13,525,213 ",87%, 260.80 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000035,Leeds," 352,448 "," 300,471 "," 61,291,980 ",85%, 228.30 
+E92000001,England,E12000004,East Midlands,E06000016,Leicester," 140,317 "," 119,944 "," 17,514,801 ",86%, 166.40 
+E92000001,England,E12000008,South East,E07000063,Lewes," 45,705 "," 40,513 "," 16,831,500 ",89%, 462.30 
+E92000001,England,E12000007,London,E09000023,Lewisham," 137,421 "," 112,463 "," 10,308,838 ",82%, 158.90 
+E92000001,England,E12000005,West Midlands,E07000194,Lichfield," 46,387 "," 42,660 "," 15,926,075 ",92%, 398.80 
+E92000001,England,E12000004,East Midlands,E07000138,Lincoln," 45,615 "," 40,659 "," 7,400,572 ",89%, 202.10 
+E92000001,England,E12000002,North West,E08000012,Liverpool," 240,663 "," 201,973 "," 24,967,013 ",84%, 144.40 
+E92000001,England,E12000006,East of England,E06000032,Luton," 82,024 "," 71,593 "," 12,350,619 ",87%, 199.70 
+E92000001,England,E12000008,South East,E07000110,Maidstone," 75,473 "," 65,801 "," 26,226,351 ",87%, 448.00 
+E92000001,England,E12000006,East of England,E07000074,Maldon," 28,559 "," 25,934 "," 14,459,094 ",91%, 589.60 
+E92000001,England,E12000005,West Midlands,E07000235,Malvern Hills," 36,775 "," 33,119 "," 22,157,350 ",90%, 732.20 
+E92000001,England,E12000002,North West,E08000003,Manchester," 235,675 "," 186,843 "," 22,712,460 ",79%, 148.40 
+E92000001,England,E12000004,East Midlands,E07000174,Mansfield," 50,029 "," 46,705 "," 10,999,747 ",93%, 247.50 
+E92000001,England,E12000008,South East,E06000035,Medway," 115,845 "," 106,946 "," 20,911,849 ",92%, 216.10 
+E92000001,England,E12000004,East Midlands,E07000133,Melton," 23,218 "," 21,458 "," 9,551,699 ",92%, 463.40 
+E92000001,England,E12000009,South West,E07000187,Mendip," 53,202 "," 48,817 "," 21,638,560 ",92%, 481.70 
+W92000004,Wales,W08000001,Wales,W06000024,Merthyr Tydfil," 27,387 "," 25,486 "," 4,538,742 ",93%, 183.60 
+E92000001,England,E12000007,London,E09000024,Merton," 85,318 "," 75,079 "," 9,484,347 ",88%, 165.40 
+E92000001,England,E12000009,South West,E07000042,Mid Devon," 36,662 "," 32,754 "," 18,091,676 ",89%, 588.30 
+E92000001,England,E12000006,East of England,E07000203,Mid Suffolk," 45,217 "," 41,760 "," 29,789,782 ",92%, 754.60 
+E92000001,England,E12000008,South East,E07000228,Mid Sussex," 64,999 "," 58,161 "," 26,177,771 ",90%, 510.40 
+E92000001,England,E12000001,North East,E06000002,Middlesbrough," 64,257 "," 60,774 "," 10,198,307 ",95%, 181.30 
+S92000003,Scotland,S15000001,Scotland,S12000019,Midlothian," 39,953 "," 37,709 "," 9,148,918 ",94%, 280.90 
+E92000001,England,E12000008,South East,E06000042,Milton Keynes," 114,699 "," 99,409 "," 20,372,942 ",87%, 222.40 
+E92000001,England,E12000008,South East,E07000210,Mole Valley," 38,259 "," 34,067 "," 22,855,433 ",89%, 766.80 
+W92000004,Wales,W08000001,Wales,W06000021,Monmouthshire," 42,853 "," 38,349 "," 20,242,033 ",90%, 567.50 
+S92000003,Scotland,S15000001,Scotland,S12000020,Moray," 45,848 "," 41,717 "," 19,906,720 ",91%, 513.60 
+S92000003,Scotland,S15000001,Scotland,S12000013,Na h-Eileanan Siar," 15,487 "," 14,133 "," 14,078,848 ",91%," 1,031.20 "
+W92000004,Wales,W08000001,Wales,W06000012,Neath Port Talbot," 66,022 "," 62,004 "," 14,937,177 ",94%, 254.00 
+E92000001,England,E12000008,South East,E07000091,New Forest," 81,678 "," 74,774 "," 37,535,417 ",92%, 547.70 
+E92000001,England,E12000004,East Midlands,E07000175,Newark and Sherwood," 54,482 "," 50,830 "," 20,942,905 ",93%, 433.40 
+E92000001,England,E12000001,North East,E08000021,Newcastle upon Tyne," 135,128 "," 116,454 "," 15,818,814 ",86%, 169.90 
+E92000001,England,E12000005,West Midlands,E07000195,Newcastle-under-Lyme," 55,836 "," 51,685 "," 15,343,454 ",93%, 313.90 
+E92000001,England,E12000007,London,E09000025,Newham," 120,689 "," 99,058 "," 6,584,054 ",82%, 103.30 
+W92000004,Wales,W08000001,Wales,W06000022,Newport," 68,567 "," 61,441 "," 13,256,861 ",90%, 235.10 
+S92000003,Scotland,S15000001,Scotland,S12000021,North Ayrshire," 71,869 "," 64,023 "," 16,839,106 ",89%, 323.60 
+E92000001,England,E12000009,South West,E07000043,North Devon," 47,087 "," 41,468 "," 18,205,328 ",88%, 492.50 
+E92000001,England,E12000004,East Midlands,E07000038,North East Derbyshire," 46,408 "," 43,500 "," 15,120,122 ",94%, 359.40 
+E92000001,England,E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire," 73,511 "," 70,189 "," 15,690,843 ",96%, 237.80 
+E92000001,England,E12000006,East of England,E07000099,North Hertfordshire," 58,111 "," 51,397 "," 19,142,262 ",88%, 412.50 
+E92000001,England,E12000004,East Midlands,E07000139,North Kesteven," 52,191 "," 49,628 "," 21,339,113 ",95%, 443.70 
+S92000003,Scotland,S15000001,Scotland,S12000050,North Lanarkshire," 157,500 "," 141,002 "," 29,230,942 ",90%, 250.60 
+E92000001,England,E12000003,Yorkshire and The Humber,E06000013,North Lincolnshire," 76,084 "," 70,988 "," 27,457,878 ",93%, 403.60 
+E92000001,England,E12000006,East of England,E07000147,North Norfolk," 55,068 "," 50,273 "," 29,316,749 ",91%, 629.10 
+E92000001,England,E12000009,South West,E06000024,North Somerset," 98,948 "," 89,484 "," 27,566,947 ",90%, 356.70 
+E92000001,England,E12000001,North East,E08000022,North Tyneside," 99,525 "," 94,000 "," 13,631,785 ",94%, 167.40 
+E92000001,England,E12000005,West Midlands,E07000218,North Warwickshire," 28,678 "," 26,911 "," 10,018,847 ",94%, 395.50 
+E92000001,England,E12000004,East Midlands,E07000134,North West Leicestershire," 45,133 "," 41,172 "," 14,002,769 ",91%, 352.80 
+E92000001,England,E12000004,East Midlands,E07000154,Northampton," 98,956 "," 89,532 "," 16,016,226 ",91%, 199.80 
+E92000001,England,E12000001,North East,E06000057,Northumberland," 156,440 "," 145,145 "," 46,912,540 ",93%, 343.50 
+E92000001,England,E12000006,East of England,E07000148,Norwich," 66,254 "," 54,577 "," 9,541,301 ",82%, 207.70 
+E92000001,England,E12000004,East Midlands,E06000018,Nottingham," 140,095 "," 116,344 "," 18,013,993 ",83%, 175.00 
+E92000001,England,E12000005,West Midlands,E07000219,Nuneaton and Bedworth," 57,998 "," 54,284 "," 11,596,701 ",94%, 229.10 
+E92000001,England,E12000004,East Midlands,E07000135,Oadby and Wigston," 23,647 "," 21,893 "," 5,878,140 ",93%, 279.50 
+E92000001,England,E12000002,North West,E08000004,Oldham," 99,481 "," 90,729 "," 13,924,927 ",91%, 166.00 
+S92000003,Scotland,S15000001,Scotland,S12000023,Orkney Islands," 11,731 "," 10,169 "," 8,764,799 ",87%, 899.40 
+E92000001,England,E12000008,South East,E07000178,Oxford," 58,667 "," 49,233 "," 8,201,761 ",84%, 214.60 
+W92000004,Wales,W08000001,Wales,W06000009,Pembrokeshire," 63,460 "," 57,143 "," 29,577,044 ",90%, 562.70 
+E92000001,England,E12000002,North West,E07000122,Pendle," 40,588 "," 38,005 "," 6,961,422 ",94%, 190.10 
+S92000003,Scotland,S15000001,Scotland,S12000048,Perth and Kinross," 73,744 "," 63,719 "," 35,954,746 ",86%, 656.20 
+E92000001,England,E12000006,East of England,E06000031,Peterborough," 85,825 "," 80,470 "," 18,037,320 ",94%, 248.10 
+E92000001,England,E12000009,South West,E06000026,Plymouth," 124,793 "," 112,948 "," 17,115,654 ",91%, 182.80 
+E92000001,England,E12000008,South East,E06000044,Portsmouth," 91,513 "," 78,621 "," 7,197,174 ",86%, 117.90 
+W92000004,Wales,W08000001,Wales,W06000023,Powys," 65,651 "," 58,064 "," 36,349,809 ",88%, 664.80 
+E92000001,England,E12000002,North West,E07000123,Preston," 62,490 "," 55,052 "," 11,264,029 ",88%, 223.70 
+E92000001,England,E12000008,South East,E06000038,Reading," 72,278 "," 62,393 "," 11,227,437 ",86%, 228.80 
+E92000001,England,E12000007,London,E09000026,Redbridge," 105,631 "," 92,704 "," 14,591,068 ",88%, 196.00 
+E92000001,England,E12000001,North East,E06000003,Redcar and Cleveland," 65,335 "," 61,902 "," 11,743,014 ",95%, 201.90 
+E92000001,England,E12000005,West Midlands,E07000236,Redditch," 37,683 "," 35,486 "," 7,683,731 ",94%, 238.00 
+E92000001,England,E12000008,South East,E07000211,Reigate and Banstead," 61,225 "," 53,130 "," 22,430,549 ",87%, 488.60 
+S92000003,Scotland,S15000001,Scotland,S12000038,Renfrewshire," 87,807 "," 76,445 "," 15,752,640 ",87%, 283.40 
+W92000004,Wales,W08000001,Wales,W06000016,Rhondda Cynon Taf," 110,885 "," 104,635 "," 17,734,902 ",94%, 178.00 
+E92000001,England,E12000002,North West,E07000124,Ribble Valley," 27,913 "," 24,976 "," 10,232,895 ",90%, 426.40 
+E92000001,England,E12000007,London,E09000027,Richmond upon Thames," 85,507 "," 75,143 "," 10,514,937 ",88%, 192.10 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000166,Richmondshire," 23,687 "," 21,341 "," 8,721,464 ",90%, 434.70 
+E92000001,England,E12000002,North West,E08000005,Rochdale," 96,300 "," 88,676 "," 15,364,645 ",92%, 187.50 
+E92000001,England,E12000006,East of England,E07000075,Rochford," 36,084 "," 32,686 "," 11,562,019 ",91%, 370.90 
+E92000001,England,E12000002,North West,E07000125,Rossendale," 32,175 "," 28,837 "," 6,127,605 ",90%, 225.80 
+E92000001,England,E12000008,South East,E07000064,Rother," 46,107 "," 40,664 "," 25,753,244 ",88%, 739.60 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000018,Rotherham," 118,725 "," 112,528 "," 26,150,486 ",95%, 246.70 
+E92000001,England,E12000005,West Midlands,E07000220,Rugby," 48,370 "," 42,937 "," 17,124,727 ",89%, 426.90 
+E92000001,England,E12000008,South East,E07000212,Runnymede," 35,868 "," 31,481 "," 12,099,196 ",88%, 449.70 
+E92000001,England,E12000004,East Midlands,E07000176,Rushcliffe," 51,609 "," 46,508 "," 17,751,217 ",90%, 409.90 
+E92000001,England,E12000008,South East,E07000092,Rushmoor," 40,610 "," 36,156 "," 7,030,960 ",89%, 231.80 
+E92000001,England,E12000004,East Midlands,E06000017,Rutland," 17,711 "," 15,792 "," 8,382,033 ",89%, 552.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000167,Ryedale," 26,961 "," 23,686 "," 13,795,212 ",88%, 612.70 
+E92000001,England,E12000002,North West,E08000006,Salford," 122,094 "," 100,194 "," 14,399,844 ",82%, 169.80 
+E92000001,England,E12000005,West Midlands,E08000028,Sandwell," 133,973 "," 122,917 "," 21,008,229 ",92%, 187.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000168,Scarborough," 57,151 "," 52,031 "," 13,991,079 ",91%, 322.60 
+S92000003,Scotland,S15000001,Scotland,S12000026,Scottish Borders," 58,999 "," 51,338 "," 23,727,045 ",87%, 556.00 
+E92000001,England,E12000009,South West,E07000188,Sedgemoor," 56,234 "," 51,089 "," 19,667,130 ",91%, 419.30 
+E92000001,England,E12000002,North West,E08000014,Sefton," 130,132 "," 119,869 "," 24,963,594 ",92%, 239.60 
+E92000001,England,E12000003,Yorkshire and The Humber,E07000169,Selby," 40,280 "," 36,969 "," 14,498,951 ",92%, 412.20 
+E92000001,England,E12000008,South East,E07000111,Sevenoaks," 51,104 "," 46,402 "," 29,772,845 ",91%, 701.10 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000019,Sheffield," 256,784 "," 220,536 "," 42,071,534 ",86%, 216.40 
+S92000003,Scotland,S15000001,Scotland,S12000027,Shetland Islands," 10,345 "," 9,356 "," 5,723,502 ",90%, 645.00 
+E92000001,England,E12000005,West Midlands,E06000051,Shropshire," 147,515 "," 132,384 "," 72,354,585 ",90%, 577.60 
+E92000001,England,E12000008,South East,E06000039,Slough," 55,232 "," 44,849 "," 6,744,514 ",81%, 181.00 
+E92000001,England,E12000005,West Midlands,E08000029,Solihull," 93,750 "," 84,133 "," 27,414,259 ",90%, 358.90 
+E92000001,England,E12000009,South West,E07000246,Somerset West and Taunton," 73,892 "," 67,260 "," 29,341,915 ",91%, 487.70 
+S92000003,Scotland,S15000001,Scotland,S12000028,South Ayrshire," 56,563 "," 50,286 "," 16,869,469 ",89%, 396.50 
+E92000001,England,E12000008,South East,E07000006,South Bucks," 29,698 "," 25,321 "," 14,867,496 ",85%, 677.90 
+E92000001,England,E12000006,East of England,E07000012,South Cambridgeshire," 67,853 "," 63,485 "," 31,178,007 ",94%, 513.70 
+E92000001,England,E12000004,East Midlands,E07000039,South Derbyshire," 45,592 "," 40,846 "," 13,453,019 ",90%, 342.00 
+E92000001,England,E12000009,South West,E06000025,South Gloucestershire," 120,134 "," 110,186 "," 30,434,140 ",92%, 296.80 
+E92000001,England,E12000009,South West,E07000044,South Hams," 44,672 "," 39,274 "," 20,766,040 ",88%, 578.00 
+E92000001,England,E12000004,East Midlands,E07000140,South Holland," 41,368 "," 39,285 "," 20,474,919 ",95%, 536.00 
+E92000001,England,E12000004,East Midlands,E07000141,South Kesteven," 64,819 "," 61,035 "," 24,023,927 ",94%, 418.00 
+E92000001,England,E12000002,North West,E07000031,South Lakeland," 54,960 "," 46,805 "," 19,638,383 ",85%, 463.60 
+S92000003,Scotland,S15000001,Scotland,S12000029,South Lanarkshire," 153,861 "," 135,236 "," 34,068,422 ",88%, 302.80 
+E92000001,England,E12000006,East of England,E07000149,South Norfolk," 62,504 "," 58,896 "," 35,976,707 ",94%, 640.90 
+E92000001,England,E12000004,East Midlands,E07000155,South Northamptonshire," 40,640 "," 36,796 "," 16,646,870 ",91%, 469.60 
+E92000001,England,E12000008,South East,E07000179,South Oxfordshire," 63,344 "," 57,570 "," 33,415,186 ",91%, 627.80 
+E92000001,England,E12000002,North West,E07000126,South Ribble," 49,987 "," 46,473 "," 12,172,741 ",93%, 274.60 
+E92000001,England,E12000009,South West,E07000189,South Somerset," 79,032 "," 73,095 "," 34,182,015 ",93%, 511.60 
+E92000001,England,E12000005,West Midlands,E07000196,South Staffordshire," 47,621 "," 44,077 "," 18,056,715 ",93%, 430.10 
+E92000001,England,E12000001,North East,E08000023,South Tyneside," 72,164 "," 69,651 "," 10,056,029 ",97%, 165.10 
+E92000001,England,E12000008,South East,E06000045,Southampton," 106,867 "," 88,572 "," 13,269,263 ",83%, 199.10 
+E92000001,England,E12000006,East of England,E06000033,Southend-on-Sea," 81,800 "," 70,291 "," 12,678,187 ",86%, 220.80 
+E92000001,England,E12000007,London,E09000028,Southwark," 140,927 "," 93,448 "," 5,131,326 ",66%, 132.50 
+E92000001,England,E12000008,South East,E07000213,Spelthorne," 43,225 "," 39,081 "," 7,937,636 ",90%, 239.60 
+E92000001,England,E12000006,East of England,E07000240,St Albans," 61,558 "," 50,548 "," 17,045,405 ",82%, 365.10 
+E92000001,England,E12000002,North West,E08000013,St. Helens," 84,119 "," 79,507 "," 14,515,974 ",95%, 191.30 
+E92000001,England,E12000005,West Midlands,E07000197,Stafford," 62,185 "," 57,178 "," 21,832,400 ",92%, 407.60 
+E92000001,England,E12000005,West Midlands,E07000198,Staffordshire Moorlands," 44,663 "," 41,609 "," 16,764,787 ",93%, 415.10 
+E92000001,England,E12000006,East of England,E07000243,Stevenage," 37,556 "," 32,497 "," 5,191,392 ",87%, 176.30 
+S92000003,Scotland,S15000001,Scotland,S12000030,Stirling," 41,555 "," 37,565 "," 16,871,043 ",90%, 539.40 
+E92000001,England,E12000002,North West,E08000007,Stockport," 131,072 "," 118,937 "," 27,324,370 ",91%, 248.20 
+E92000001,England,E12000001,North East,E06000004,Stockton-on-Tees," 87,996 "," 83,064 "," 18,734,079 ",94%, 238.00 
+E92000001,England,E12000005,West Midlands,E06000021,Stoke-on-Trent," 117,239 "," 110,680 "," 17,853,768 ",94%, 170.70 
+E92000001,England,E12000005,West Midlands,E07000221,Stratford-on-Avon," 60,148 "," 53,827 "," 27,609,993 ",90%, 556.20 
+E92000001,England,E12000009,South West,E07000082,Stroud," 54,171 "," 49,378 "," 24,588,813 ",91%, 536.10 
+E92000001,England,E12000001,North East,E08000024,Sunderland," 130,002 "," 122,205 "," 18,419,473 ",94%, 162.60 
+E92000001,England,E12000008,South East,E07000214,Surrey Heath," 37,437 "," 34,513 "," 14,838,844 ",92%, 488.70 
+E92000001,England,E12000007,London,E09000029,Sutton," 84,187 "," 73,835 "," 14,416,775 ",88%, 254.00 
+E92000001,England,E12000008,South East,E07000113,Swale," 65,262 "," 58,694 "," 18,259,588 ",90%, 338.70 
+W92000004,Wales,W08000001,Wales,W06000011,Swansea," 114,028 "," 101,066 "," 26,100,986 ",89%, 279.40 
+E92000001,England,E12000009,South West,E06000030,Swindon," 99,036 "," 90,508 "," 17,655,636 ",91%, 216.40 
+E92000001,England,E12000002,North West,E08000008,Tameside," 103,445 "," 95,555 "," 14,567,841 ",92%, 166.60 
+E92000001,England,E12000005,West Midlands,E07000199,Tamworth," 33,311 "," 30,841 "," 6,297,844 ",93%, 220.20 
+E92000001,England,E12000008,South East,E07000215,Tandridge," 36,875 "," 32,951 "," 23,141,432 ",89%, 807.20 
+E92000001,England,E12000009,South West,E07000045,Teignbridge," 63,026 "," 56,278 "," 22,382,273 ",89%, 445.50 
+E92000001,England,E12000005,West Midlands,E06000020,Telford and Wrekin," 78,293 "," 71,251 "," 20,804,370 ",91%, 308.40 
+E92000001,England,E12000006,East of England,E07000076,Tendring," 71,901 "," 64,330 "," 22,106,179 ",90%, 380.40 
+E92000001,England,E12000008,South East,E07000093,Test Valley," 56,368 "," 50,312 "," 24,172,823 ",89%, 520.40 
+E92000001,England,E12000009,South West,E07000083,Tewkesbury," 44,076 "," 40,264 "," 17,441,790 ",91%, 476.80 
+E92000001,England,E12000008,South East,E07000114,Thanet," 67,550 "," 62,257 "," 12,015,589 ",92%, 240.50 
+E92000001,England,E12000006,East of England,E07000102,Three Rivers," 37,759 "," 33,155 "," 13,604,638 ",88%, 453.50 
+E92000001,England,E12000006,East of England,E06000034,Thurrock," 67,924 "," 58,648 "," 12,253,279 ",86%, 232.00 
+E92000001,England,E12000008,South East,E07000115,Tonbridge and Malling," 55,070 "," 50,049 "," 19,921,274 ",91%, 432.40 
+E92000001,England,E12000009,South West,E06000027,Torbay," 73,259 "," 65,625 "," 14,233,513 ",90%, 294.30 
+W92000004,Wales,W08000001,Wales,W06000020,Torfaen," 42,343 "," 39,169 "," 8,557,118 ",93%, 232.50 
+E92000001,England,E12000009,South West,E07000046,Torridge," 32,706 "," 29,045 "," 14,725,898 ",89%, 542.00 
+E92000001,England,E12000007,London,E09000030,Tower Hamlets," 131,399 "," 79,237 "," 1,735,771 ",60%, 85.80 
+E92000001,England,E12000002,North West,E08000009,Trafford," 100,856 "," 93,257 "," 20,468,953 ",93%, 251.30 
+E92000001,England,E12000008,South East,E07000116,Tunbridge Wells," 50,408 "," 44,090 "," 23,465,579 ",88%, 635.20 
+E92000001,England,E12000006,East of England,E07000077,Uttlesford," 38,438 "," 34,863 "," 22,836,707 ",91%, 710.40 
+W92000004,Wales,W08000001,Wales,W06000014,Vale of Glamorgan," 59,480 "," 54,493 "," 15,534,635 ",92%, 313.40 
+E92000001,England,E12000008,South East,E07000180,Vale of White Horse," 59,763 "," 53,511 "," 23,058,295 ",90%, 468.50 
+E92000001,England,E12000003,Yorkshire and The Humber,E08000036,Wakefield," 164,754 "," 149,030 "," 32,632,901 ",91%, 236.30 
+E92000001,England,E12000005,West Midlands,E08000030,Walsall," 117,839 "," 106,605 "," 23,881,592 ",91%, 247.40 
+E92000001,England,E12000007,London,E09000031,Waltham Forest," 107,313 "," 92,264 "," 8,568,346 ",86%, 128.70 
+E92000001,England,E12000007,London,E09000032,Wandsworth," 150,410 "," 109,681 "," 6,778,582 ",73%, 113.80 
+E92000001,England,E12000002,North West,E06000007,Warrington," 93,579 "," 86,613 "," 19,160,341 ",93%, 235.60 
+E92000001,England,E12000005,West Midlands,E07000222,Warwick," 64,115 "," 57,464 "," 17,966,007 ",90%, 363.60 
+E92000001,England,E12000006,East of England,E07000103,Watford," 40,290 "," 31,011 "," 5,659,868 ",77%, 211.50 
+E92000001,England,E12000008,South East,E07000216,Waverley," 53,900 "," 48,972 "," 35,330,016 ",91%, 802.80 
+E92000001,England,E12000008,South East,E07000065,Wealden," 70,542 "," 63,278 "," 50,545,835 ",90%, 863.90 
+E92000001,England,E12000004,East Midlands,E07000156,Wellingborough," 35,450 "," 32,616 "," 7,837,434 ",92%, 258.10 
+E92000001,England,E12000006,East of England,E07000241,Welwyn Hatfield," 48,433 "," 41,359 "," 13,377,429 ",85%, 364.90 
+E92000001,England,E12000008,South East,E06000037,West Berkshire," 69,115 "," 62,246 "," 35,369,336 ",90%, 625.20 
+E92000001,England,E12000009,South West,E07000047,West Devon," 25,754 "," 23,236 "," 15,177,729 ",90%, 703.50 
+S92000003,Scotland,S15000001,Scotland,S12000039,West Dunbartonshire," 44,841 "," 38,441 "," 6,885,660 ",86%, 260.30 
+E92000001,England,E12000002,North West,E07000127,West Lancashire," 49,007 "," 44,981 "," 15,858,862 ",92%, 372.80 
+E92000001,England,E12000004,East Midlands,E07000142,West Lindsey," 43,718 "," 40,874 "," 21,330,585 ",94%, 538.10 
+S92000003,Scotland,S15000001,Scotland,S12000040,West Lothian," 81,423 "," 76,154 "," 17,710,582 ",94%, 267.00 
+E92000001,England,E12000008,South East,E07000181,West Oxfordshire," 49,736 "," 43,491 "," 20,889,729 ",87%, 512.20 
+E92000001,England,E12000006,East of England,E07000245,West Suffolk," 80,790 "," 74,856 "," 32,709,664 ",93%, 473.00 
+E92000001,England,E12000007,London,E09000033,Westminster," 136,237 "," 85,872 "," 1,621,091 ",63%, 82.10 
+E92000001,England,E12000002,North West,E08000010,Wigan," 146,125 "," 137,390 "," 24,459,315 ",94%, 186.10 
+E92000001,England,E12000009,South West,E06000054,Wiltshire," 224,632 "," 203,557 "," 93,229,364 ",91%, 492.10 
+E92000001,England,E12000008,South East,E07000094,Winchester," 53,830 "," 46,074 "," 26,602,389 ",86%, 648.00 
+E92000001,England,E12000008,South East,E06000040,Windsor and Maidenhead," 64,419 "," 56,566 "," 24,529,721 ",88%, 510.20 
+E92000001,England,E12000002,North West,E08000015,Wirral," 150,627 "," 140,639 "," 31,215,809 ",93%, 247.20 
+E92000001,England,E12000008,South East,E07000217,Woking," 42,839 "," 39,163 "," 13,130,865 ",91%, 400.40 
+E92000001,England,E12000008,South East,E06000041,Wokingham," 70,425 "," 64,504 "," 25,745,867 ",92%, 431.20 
+E92000001,England,E12000005,West Midlands,E08000031,Wolverhampton," 112,196 "," 100,111 "," 22,103,193 ",89%, 246.80 
+E92000001,England,E12000005,West Midlands,E07000237,Worcester," 46,304 "," 41,760 "," 8,952,645 ",90%, 241.10 
+E92000001,England,E12000008,South East,E07000229,Worthing," 48,436 "," 42,210 "," 9,198,575 ",87%, 263.30 
+W92000004,Wales,W08000001,Wales,W06000006,Wrexham," 61,128 "," 55,714 "," 18,234,092 ",91%, 345.30 
+E92000001,England,E12000005,West Midlands,E07000238,Wychavon," 58,288 "," 53,381 "," 27,300,861 ",92%, 547.90 
+E92000001,England,E12000008,South East,E07000007,Wycombe," 74,367 "," 65,945 "," 27,645,079 ",89%, 472.90 
+E92000001,England,E12000002,North West,E07000128,Wyre," 51,994 "," 47,875 "," 13,239,623 ",92%, 297.20 
+E92000001,England,E12000005,West Midlands,E07000239,Wyre Forest," 46,994 "," 42,489 "," 15,183,023 ",90%, 380.30 
+E92000001,England,E12000003,Yorkshire and The Humber,E06000014,York," 87,724 "," 80,376 "," 18,857,409 ",92%, 262.90 
+,,,,,,,,,,
+Source: Ordnance Survey,,,,,,,,,,
+© Crown copyright and database rights 2020 OS 100019153,,,,,,,,,,
